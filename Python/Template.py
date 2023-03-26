@@ -4,4 +4,3 @@ Difficulty:
 Author: 
 """
 
-# Answer
